@@ -140,7 +140,7 @@ id;from;to;text;text to check;where;number;nouns;determiners;conjuctions;adjecti
 138;QUI-GON;OBI-WAN;We'll need a navigator to get us through the planet's core. This Gungan my be of help.;;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;17;0;0;0;0;0;0;0;0;0;153
 139;QUI-GON;BOSS NASS;What is to become of Jar Jar Binks here?;;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;9;0;0;0;0;0;0;0;0;0;81
 140;BOSS NASS;QUI-GON;Binkss brokeen the nocombackie law. Hisen to be pune-ished.;;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;9;0;0;0;0;0;0;0;0;0;81
-141;QUI-GON;BOSS NASS;"I saved his life. He owes me what you call a ""life-debt."" Your gods demand that his life belongs to me now.";;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;23;0;0;0;0;0;0;0;0;0;207
+141;QUI-GON;BOSS NASS;I saved his life. He owes me what you call a life-debt. Your gods demand that his life belongs to me now.;;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;23;0;0;0;0;0;0;0;0;0;207
 142;BOSS NASS;JAR JAR;Binks. Yousa havena liveplay with thisen hisen?;;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;7;0;0;0;0;0;0;0;0;0;63
 143;BOSS NASS;QUI-GON;Begone wit him!;;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;3;0;0;0;0;0;0;0;0;0;27
 144;JAR JAR;QUI-GON;Count me outta dis one. Better dead here than dead in da core. Yee gods! What mesa sayin?;;INT. OTOH GUNGA - HIGH TOWER BOARD ROOM;18;0;0;0;0;0;0;0;0;0;162
@@ -154,7 +154,7 @@ id;from;to;text;text to check;where;number;nouns;determiners;conjuctions;adjecti
 152;NUTE;DARTH SIDIOUS;The invasion is on schedule, My Lord.;;INT. FEDERATION BATTLESHIP - BRIDGE;7;0;0;0;0;0;0;0;0;0;63
 153;DARTH SIDIOUS;NUTE;I have the Senate bogged down in procedures. By the time this incident comes up for a vote, they will have no choice but to accept your control of the system.;;INT. FEDERATION BATTLESHIP - BRIDGE;31;0;0;0;0;0;0;0;0;0;279
 154;NUTE;DARTH SIDIOUS;The Queen has great faith the Senate will side with her.;;INT. FEDERATION BATTLESHIP - BRIDGE;11;0;0;0;0;0;0;0;0;0;99
-155;DARTH SIDIOUS;NUTE;Queen Amidala is yound and naive. You will find controlling her will not be difficult.;;INT. FEDERATION BATTLESHIP - BRIDGE;15;0;0;0;0;0;0;0;0;0;135
+155;DARTH SIDIOUS;NUTE;Queen Amidala is young and naive. You will find controlling her will not be difficult.;;INT. FEDERATION BATTLESHIP - BRIDGE;15;0;0;0;0;0;0;0;0;0;135
 156;NUTE;DARTH SIDIOUS;Thank you, My Lord.;;INT. FEDERATION BATTLESHIP - BRIDGE;4;0;0;0;0;0;0;0;0;0;36
 157;RUNE;NUTE;You didn't tell him about the missing Jedi?;;INT. FEDERATION BATTLESHIP - BRIDGE;8;0;0;0;0;0;0;0;0;0;72
 158;NUTE;RUNE;No need to report that to him, until we have something to report.;;INT. FEDERATION BATTLESHIP - BRIDGE;13;0;0;0;0;0;0;0;0;0;117
