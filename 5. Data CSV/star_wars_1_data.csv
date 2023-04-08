@@ -420,7 +420,7 @@ id;from;to;text;text to check;where;number;nouns;determiners;conjuctions;adjecti
 418;WATTO;QUI-GON;but what would the boy ride? He smashed up my Pod in the last race. It will take some time to fix it.;;INT. WATTO'S JUNK SHOP - DAY;23;0;0;0;0;0;0;0;0;0;207
 419;ANAKIN;QUI-GON;Ahhhh it wasn't my fault really Sebulba flashed me with his vent ports. I actually saved the Pod mostly.;;INT. WATTO'S JUNK SHOP - DAY;19;0;0;0;0;0;0;0;0;0;171
 420;WATTO;ANAKIN;That you did. The boy is good, no doubts there.;;INT. WATTO'S JUNK SHOP - DAY;10;0;0;0;0;0;0;0;0;0;90
-421;QUI-GON;WATTO;"I have acquired a Pod in a game of chance. ""The fastest ever built.""";;INT. WATTO'S JUNK SHOP - DAY;15;0;0;0;0;0;0;0;0;0;135
+421;QUI-GON;WATTO;I have acquired a Pod in a game of chance. The fastest ever built.;;INT. WATTO'S JUNK SHOP - DAY;15;0;0;0;0;0;0;0;0;0;135
 422;WATTO;QUI-GON;"I hope you didn't kill anyone I know for it. So, you supply the Pod and the entry fee; I supply the boy. We split the winnings fifty-fifty, I think.";;INT. WATTO'S JUNK SHOP - DAY;30;0;0;0;0;0;0;0;0;0;270
 423;QUI-GON;WATTO;Fifty-fifty!?! If it's going to be fifty-fifty, I suggest you front the cash for the entry. If we win, you keep all the winnings, minus the cost of the parts I need If we lose, you keep my ship.;;INT. WATTO'S JUNK SHOP - DAY;39;0;0;0;0;0;0;0;0;0;351
 424;QUI-GON;WATTO;Either way, you win.;;INT. WATTO'S JUNK SHOP - DAY;4;0;0;0;0;0;0;0;0;0;36
